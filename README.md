@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, bem-vindo ao meu Github 👋
 
-<!--
-**gabriela4souza/gabriela4souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Gabriela Souza e atualmente estou cursando o Proa Tech onde estou aprendendo mais sobre a vida, o Universo e tudo mais, além de desenvolvimento Web e programação.
+Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, aproveite.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/gabriela4souza">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela4souza&show_icons=true&theme=tokyonight&bg_color=00000000"/>
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela4souza&layout=compact&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+##
+
+
+
+##
+
+<div align=center>
+  <a href="gabrielaasouza24@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/gabrielaasouza/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</div>
