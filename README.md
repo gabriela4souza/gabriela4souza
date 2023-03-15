@@ -10,9 +10,9 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
   </a>
 </div>
 
-##
+<!-- ## -->
 
-![Snake animation](https://github.com/gabriela4souza/gabriela4souza/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gabriela4souza/gabriela4souza/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
