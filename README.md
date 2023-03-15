@@ -5,8 +5,8 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
 
 <div>
   <a href="https://github.com/gabriela4souza">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela4souza&layout=compact&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabriela4souza&show_icons=true&theme=tokyonight&bg_color=00000000"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela4souza&layout=compact&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
   </a>
 </div>
 
