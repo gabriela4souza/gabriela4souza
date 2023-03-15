@@ -8,12 +8,17 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=gabriela4souza&show_icons=true&theme=tokyonight&bg_color=00000000"/>
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela4souza&layout=compact&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
   </a>
-
 </div>
 
 ##
 
+![Snake Animation](https://github.com/gabriela4souza/gabriela4souza/blob/output/github-contribuition-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ##
 
@@ -23,5 +28,4 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
   
   <a href="https://www.linkedin.com/in/gabrielaasouza/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </div>
