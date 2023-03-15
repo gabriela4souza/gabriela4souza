@@ -30,6 +30,5 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
   <a href="https://www.linkedin.com/in/gabrielaasouza/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
-    
-![snake gif](https://github.com/gabriela4souza/gabriela4souza/blob/main/snake.svg)
+
 
