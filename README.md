@@ -23,7 +23,7 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
 ##
 
 <div align=center>
-  ### Contatos
+  <h3>Contatos</h3>
   <a href="gabrielaasouza24@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   
@@ -31,4 +31,5 @@ Aqui você pode conferir alguns dos projetos que desenvolvo ao longo do curso, a
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
     
-![snake svg](https://github.com/gabriela4souza/gabriela4souza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gabriela4souza/gabriela4souza/blob/output/github-contribution-grid-snake.svg)
+
