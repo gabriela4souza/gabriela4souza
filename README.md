@@ -24,7 +24,7 @@ Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, a
 
 <div align=center>
   <h3>Contatos</h3>
-  <a href="gabrielaasouza24@gmail.com">
+  <a href="https://www.gabrielaasouza24@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   
   <a href="https://www.linkedin.com/in/gabrielaasouza/">
