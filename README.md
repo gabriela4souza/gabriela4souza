@@ -21,6 +21,16 @@ Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, a
 </picture> -->
 
 ##
+<div align="center">
+  <h3>Ferramentas</h3>
+  <img align="center" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+  <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
+  <img align="center" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
+  <img align="center" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>  
+</div>
+
+##
 
 <div align=center>
   <h3>Contatos</h3>
