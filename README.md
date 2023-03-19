@@ -34,10 +34,10 @@ Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, a
 
 <div align=center>
   <h3>Contatos</h3>
-  <a href="mailto:gabrielaasouza24@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:gabrielaasouza24@gmail.com" target="blanket">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
   <a href="https://www.linkedin.com/in/gabrielaasouza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 </div>
 
 
