@@ -48,4 +48,3 @@ Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, a
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
 </div>
 
-![Snake animation](https://github.com/gabrielaasouza/gabrielaasouza/blob/output/github-contribution-grid-snake.svg)
