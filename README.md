@@ -1,7 +1,7 @@
 ### Olá, bem-vindo ao meu Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Eu sou a Gabriela Souza e atualmente estou cursando o Proa Tech onde estou aprendendo mais sobre a vida, o Universo e tudo mais, além de desenvolvimento Web e programação.
-Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, aproveite.
+Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, assim como pessoais, aproveite.
 
 <div align="center">
   <a href="https://github.com/gabriela4souza">
