@@ -1,7 +1,7 @@
 ### Olá, bem-vindo ao meu Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Eu sou a Gabriela Souza e atualmente estudo Desenvolvimento Web com foco em UX/UI Design, sempre procurando aprender algo novo.
-Aqui você pode conferir alguns dos projetos que desenvolvi ao longo do curso, assim como pessoais, aproveite.
+Aqui você pode conferir alguns dos projetos que desenvolvi, aproveite.
 
 <div align="center">
   <a href="https://github.com/gabriela4souza">
