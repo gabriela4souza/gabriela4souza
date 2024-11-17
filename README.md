@@ -22,14 +22,6 @@ Aqui você pode conferir alguns dos projetos que desenvolvi, aproveite.
 
 ##
 <div align="center">
-  <h3>Linguagens</h3>
-  <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-</div>
-
-##
-<div align="center">
   <h3>Ferramentas</h3>
   <img align="center" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
   <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
